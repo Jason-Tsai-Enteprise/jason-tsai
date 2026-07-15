@@ -10,16 +10,16 @@
 
 <!-- TO DO: add more project highlights and achievements -->
 
-我是蔡竣宇（Jason Tsai），目前任職於產品開發部門，專注於產品開發與持續精進技術能力。
+我是蔡竣宇（Jason Tsai），目前專注於企業產品開發、需求分析與系統優化，持續精進技術能力與交付品質。
 
 <details>
 <summary>我的基本資訊</summary>
 
-| Rank | 項目 |
-|-----:|------|
-| 1 | 中文姓名：蔡竣宇 |
-| 2 | 英文姓名：Jason Tsai |
-| 3 | 部門名稱：產品開發部門 |
+| 項目 | 內容 |
+|------|------|
+| 中文姓名 | 蔡竣宇 |
+| 英文姓名 | Jason Tsai |
+| 部門 | 產品開發部門 |
 
 </details>
 
