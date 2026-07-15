@@ -10,7 +10,7 @@
 
 <!-- TO DO: add more project highlights and achievements -->
 
-我是蔡竣宇（Jason Tsai），目前任職於巨資產品開發部（BDPDD），專注於產品開發與持續精進技術能力。
+我是蔡竣宇（Jason Tsai），目前任職於巨資產品開發部，專注於產品開發與持續精進技術能力。
 
 <details>
 <summary>我的基本資訊</summary>
