@@ -8,7 +8,7 @@
 
 ## About me
 
-<!-- TO DO: add more project highlights and achievements -->
+<!-- TODO: add more project highlights and achievements -->
 
 我是蔡竣宇（Jason Tsai），目前專注於企業產品開發、需求分析與系統優化，持續精進技術能力與交付品質。
 
