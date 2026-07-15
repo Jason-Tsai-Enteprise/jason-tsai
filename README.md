@@ -1,12 +1,12 @@
 # Hi, I'm Jason Tsai 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Light mode shows a sun and dark mode shows a moon with stars." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jason-Tsai-Enteprise.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jason-Tsai-Enteprise.png">
+  <img alt="Jason Tsai's GitHub profile avatar." src="https://github.com/Jason-Tsai-Enteprise.png">
 </picture>
 
-## About me
+## About Me
 
 <!-- TODO: add more project highlights and achievements -->
 
